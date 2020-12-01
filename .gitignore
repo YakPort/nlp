@@ -1,0 +1,13 @@
+.env
+myvenv
+.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/dbnavigator.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/nlp.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/codeStyles/Project.xml
+/.idea/inspectionProfiles/Project_Default.xml
+vcs.xml
+/.ipynb_checkpoints/sentiment_analysis-checkpoint.ipynb
